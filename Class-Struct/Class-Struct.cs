@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-/*namespace Vsite.CSharp
+namespace Vsite.CSharp
 {
     // TODO: Prekopirati kod klase iz prethodnog primjera i promijeniti pravo pristupa članu "broj" u public
 
@@ -19,7 +19,7 @@ using System.Text;
                 Console.WriteLine(broj);
             }
         }
-  
+
 
     // TODO: Prekopirati kod strukture iz prethodnog primjera i promijeniti pravo pristupa članu "tekst" u public
     struct MojaStruktura
@@ -37,7 +37,7 @@ using System.Text;
             Console.WriteLine(tekst);
 
         }
-
+    }
     public class ClassStruct
     {
         public static void IspišiKlase()
@@ -89,4 +89,3 @@ using System.Text;
         }
     }
 }
-*/
